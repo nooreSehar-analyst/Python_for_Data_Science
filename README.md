@@ -8,9 +8,9 @@ Welcome to my learning journey! In this repository, I document my progress as I 
 
 ### 🏗️ Phase 1: Python Foundations
 - [x] **Day 1:** Variables, Keywords, & Identifiers (Initial Practice Uploaded)
-- [ ] **Day 2:** Python Literals & Data Types
-- [ ] **Day 3:** String Manipulation & Built-in Functions (len, upper, lower, etc.)
-- [ ] **Day 4:** Python Tokens & Operators
+- [x] **Day 2:** Python Literals & Data Types
+- [x] **Day 3:** String Manipulation & Built-in Functions (len, upper, lower, etc.)
+- [x] **Day 4:** Python Tokens & Operators
 
 ### 🧠 Phase 2: Logic & Control Flow
 - [ ] **Day 5:** Conditional Statements (If-Else, Nested If)
