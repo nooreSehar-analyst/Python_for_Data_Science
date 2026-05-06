@@ -13,8 +13,8 @@ Welcome to my learning journey! In this repository, I document my progress as I 
 - [x] **Day 4:** Python Tokens & Operators
 
 ### 🧠 Phase 2: Logic & Control Flow
-- [ ] **Day 5:** Conditional Statements (If-Else, Nested If)
-- [ ] **Day 6:** Looping Statements (For & While Loops)
+- [x] **Day 5:** Conditional Statements (If-Else, Nested If)
+- [x] **Day 6:** Looping Statements (For & While Loops)
 
 ### 📦 Phase 3: Data Structures & OOP
 - [ ] **Day 7:** Lists & Tuples
