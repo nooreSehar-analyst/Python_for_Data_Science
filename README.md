@@ -17,9 +17,9 @@ Welcome to my learning journey! In this repository, I document my progress as I 
 - [x] **Day 6:** Looping Statements (For & While Loops)
 
 ### 📦 Phase 3: Data Structures & OOP
-- [ ] **Day 7:** Lists & Tuples
-- [ ] **Day 8:** Dictionaries & Sets
-- [ ] **Day 9:** Object-Oriented Programming (OOP) Concepts
+- [x] **Day 7:** Lists & Tuples
+- [x] **Day 8:** Dictionaries & Sets
+- [ ] **Day 9:** Revise all Previous work
 
 ### 📊 Phase 4: Data Science Libraries
 - [ ] **Day 10:** NumPy for Numerical Analysis
